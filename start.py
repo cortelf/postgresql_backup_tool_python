@@ -1,4 +1,4 @@
-giimport argparse
+import argparse
 import subprocess
 import telebot
 import datetime
